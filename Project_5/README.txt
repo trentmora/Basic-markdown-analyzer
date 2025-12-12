@@ -4,6 +4,8 @@ Basic Markdown File Analyzer (Python, OOP)
 Author: Trent Mora
 Course: ITS 211 – Introduction to Python Programming
 ---
+ASL README HERE: https://youtu.be/dn2CK9qkLqk
+
 This is a simple Python program that scans a given directory for
 Markdown (.md) files, and analyzes the content of these files by 
 creating a corresponding representative object for each Markdown file.

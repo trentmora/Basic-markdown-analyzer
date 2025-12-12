@@ -52,7 +52,7 @@ FILE Structure:
     ├── report.txt        # Auto-generated analysis report
     └── README.md         # Project documentation
 
-Sample Output:
+Sample Output on Terminal:
     ==== Summary ====
     Total files: 5
     Files with YAML: 1
